@@ -1,0 +1,30 @@
+body {
+    background-color: #100020;
+    color: #EEEEEE;
+    font-size: 20px;
+    font-family: Garamond, serif;
+    width: 600px;
+    margin: 20px auto;
+}
+
+h1,
+h2 {
+    font-family: Verdana, sans-serif;
+}
+
+h1 {
+    font-size: 36px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.recipe-link button {
+    display: block;
+    margin: 8px auto;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 5px 10px;
+}
